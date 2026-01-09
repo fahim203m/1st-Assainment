@@ -106,3 +106,123 @@
     #fast-line{
         color: white;
     }
+    .section-2{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .section-2 h2{
+        font-size: 48px;
+        font-weight: bold;
+        line-height: 58px;
+        color: #001931;
+
+    }
+    .section-2 p{
+        margin-top: 16px;
+        font-size: 16px;
+        color: #627382;
+    }
+    .card-img{
+        justify-content: center;
+         padding: 14.4px;
+    }
+    .circle{
+        background-color:#F95555;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+         margin: 69.5px 107px  16px 107px;
+    }
+    .card-contener{
+        display: flex;
+        justify-content:center;
+         gap: 14px;
+         margin-top: 44px;
+    }
+    .card-item{
+        width: 322px;
+        height: 300px;
+        justify-content: center;
+        align-items: center;
+        padding: 24px;
+        text-align: center;
+        border: none;
+        box-shadow: 0px 0px 8px 0px ;
+        background:  white;
+        border-radius: 8px;
+       
+    }
+    .card-item h3{
+        font-size: 24px;
+        font-style: 600;
+        margin-bottom: 16px;
+        color: #001931;
+    }
+     .card-item p{
+        font-size: 16px;
+        color: #627382;
+     }
+     .third-contener{
+        display: flex;
+        padding: 120px;
+     }
+     .third-img{
+        width: 600px;
+        height: 600px;
+     }
+     .third-text{
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 120px 0px 120px 60px;
+     }
+     #only-p{
+        margin-bottom: 16px;
+        color: #30B868;
+        font-size: 16px;
+
+     }
+     .third-text h3{
+        font-size: 48px;
+       font-style: Bold;
+       margin-bottom: 16px;
+       color: #001931;
+     }
+     .third-text p{
+     font-weight: 370 px;
+     line-height: 20px;
+     font-size: 16px;
+     margin-bottom: 40px;
+     max-width: 600px;
+     color: #627382;
+     
+     }
+     ul{
+        list-style: none;
+     }
+     ul li{
+        margin-bottom: 16px;
+     }
+     .fore{
+        width: 1360px;
+        height: 384px;
+        background-color: #F7F6F2;
+        padding: 80px 40px 80px 40px;
+       text-align: center;
+       margin: 2Px 120px 120px 120px;
+       border-radius: 12px;
+
+
+     }
+     .fore h2{
+        font-size: 40px;
+         font-style: Bold;
+          
+     }
+     .fore p{
+        margin-top: 16px;
+        font-size: 16px;
+        margin-bottom: 24px;
+        color: #627382;
+     }
+
+     
